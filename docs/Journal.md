@@ -1,1 +1,1 @@
-utilisation de wampp server avec GLPI
+Utilisation de Lamp server avec GLPI(https://bitnami.com/stack/lamp)

@@ -1,1 +1,1 @@
-Utilisation de Lamp server avec GLPI(https://bitnami.com/stack/lamp)
+Utilisation de LAMP server avec GLPI(https://bitnami.com/stack/lamp)

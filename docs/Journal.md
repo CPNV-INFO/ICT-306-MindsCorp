@@ -6,4 +6,7 @@
 
 (17.09.2019 LPO KVR FMN) Première Réunion avec le Client
 
+(04.10.2019 LPO) Fermeture du Sprint 1
+
 (04.11.2019 LPO KVR FMN) Réunion Fin Sprint 2
+
